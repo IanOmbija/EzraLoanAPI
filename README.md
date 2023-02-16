@@ -111,15 +111,12 @@ The above endpoint allows the Subscriber to repay their loan
 }
 ```
 #
-```
-#
 
 ## Accessing the Swagger - OpenAPI Documentation
 
 - Once the application is running we will use the base URL to access the documentation.
 
 For example, our base url ```http://localhost:8080/swagger-ui.html#/```
-
 
 
 #
